@@ -124,33 +124,3 @@ body {
 .konten button:hover a {
     color: aliceblue;
 }
-
-#terpopuler {
-    display: flex;
-    flex-direction: column;
-    padding-top: 50px;
-    padding-left: 48px;
-}
-
-#terpopuler h1 {
-    width: 120px;
-    color: aliceblue;
-    font-size: 25px;
-    border-bottom: 2px solid aliceblue;
-    padding-bottom: 15px;
-}
-
-#terbaik {
-    display: flex;
-    flex-direction: column;
-    padding-top: 50px;
-    padding-left: 48px;
-}
-
-#terbaik h1 {
-    width: 120px;
-    color: aliceblue;
-    font-size: 25px;
-    border-bottom: 2px solid aliceblue;
-    padding-bottom: 15px;
-}
