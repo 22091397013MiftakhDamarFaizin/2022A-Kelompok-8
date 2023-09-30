@@ -1,0 +1,156 @@
+body {
+    background-color: black;
+}
+.containernavbar {
+    background-color: black;
+    background-image: url(https://rare-gallery.com/thumbs/1173361-fantasy-art-simple-background-red-artwork-text-texture-circle-light-color-shape-line-darkness-screenshot-computer-wallpaper-font.png);
+    background-size: cover;
+    height: 600px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1px 90px 10px 50px;
+    position: sticky;
+}
+.navbar h1 {
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.navbar span {
+    color: red;
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    padding-top: 10px;
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: 700;
+    transition: all .3s;
+}
+
+.navbar ul li a:hover {
+    color: red;
+}
+
+.hiro {
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+.hiro h2 {
+    color: aliceblue;
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+}
+
+#terbaru {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-left: 48px;
+}
+
+#terbaru h1 {
+    width: 120px;
+    color: aliceblue;
+    font-size: 25px;
+    border-bottom: 2px solid aliceblue;
+    padding-bottom: 15px;
+}
+
+.daftarfilm {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.card {
+    width: 300px;
+    height: 350px;
+    background-color: #191919;
+    display: flex;
+    flex-direction: column;    
+}
+
+.konten img {
+    width: 300px;
+}
+.konten .sinopsis {
+    padding: 10px 15px 10px;
+}
+
+.konten .sinopsis h3 {
+    color: aliceblue;
+}
+
+.konten .sinopsis p {
+    color: aliceblue;
+}
+
+.konten button {
+    padding: 10px 20px;
+    margin-left: 100px;
+    border-radius: 8px;
+    align-self: center;
+    font-weight: 700;
+    transition: all .3s;
+}
+.konten button a {
+    text-decoration: none;
+    color: black;
+    transition: all .3s
+}
+
+.konten button:hover {
+    background-color: red;
+    color: aliceblue
+}
+
+.konten button:hover a {
+    color: aliceblue;
+}
+
+#terpopuler {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-left: 48px;
+}
+
+#terpopuler h1 {
+    width: 120px;
+    color: aliceblue;
+    font-size: 25px;
+    border-bottom: 2px solid aliceblue;
+    padding-bottom: 15px;
+}
+
+#terbaik {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-left: 48px;
+}
+
+#terbaik h1 {
+    width: 120px;
+    color: aliceblue;
+    font-size: 25px;
+    border-bottom: 2px solid aliceblue;
+    padding-bottom: 15px;
+}
