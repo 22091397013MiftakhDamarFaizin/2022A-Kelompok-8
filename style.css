@@ -117,13 +117,18 @@ body {
     flex-direction: column;    
 }
 
+.konten {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
 .konten img {
     width: 300px;
 }
 .konten .sinopsis {
     padding: 10px 15px 10px;
     display: flex;
-    flex-direction: column;
 }
 
 .konten .sinopsis h3 {
