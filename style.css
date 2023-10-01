@@ -126,6 +126,8 @@ body {
 
 .konten .sinopsis {
     padding: 10px 15px 10px;
+    max-height: 180px;
+    min-height: 180px;
 }
 
 .konten .sinopsis h3 {
