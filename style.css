@@ -124,6 +124,7 @@ body {
 .konten .sinopsis {
     padding: 10px 15px 10px;
     display: flex;
+    flex-direction: column;
 }
 
 .konten .sinopsis h3 {
