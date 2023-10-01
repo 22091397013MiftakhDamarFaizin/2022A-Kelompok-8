@@ -145,7 +145,6 @@ body {
     margin-left: 100px;
     margin-top: 30px;
     border-radius: 8px;
-    align-self: center;
     font-weight: 700;
     transition: all .3s;
 }
