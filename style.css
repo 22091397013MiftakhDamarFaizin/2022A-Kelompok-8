@@ -111,15 +111,23 @@ body {
 
 .card {
     width: 300px;
-    height: 400px;
+    padding-bottom: 10px;
     background-color: #191919;
     display: flex;
     flex-direction: column;    
+    justify-content: space-evenly;
 }
 
 .konten img {
     width: 300px;
+    height: 150px;
 }
+
+.konten .sinopsis p {
+    max-height: 40px;
+    min-height: 40px;
+}
+
 
 .konten .sinopsis {
     padding: 10px 15px 10px;
@@ -131,6 +139,10 @@ body {
 
 .konten .sinopsis p {
     color: aliceblue;
+}
+
+.konten button {
+    margin-top: 15px;
 }
 
 .konten button {
