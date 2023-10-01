@@ -117,12 +117,6 @@ body {
     flex-direction: column;    
 }
 
-.konten {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-}
-
 .konten img {
     width: 300px;
     height: 200px;
