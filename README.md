@@ -120,6 +120,8 @@ kerja website
  
  
 4.1	Use Case Diagram 
+![Gambar Use Case](../assets/Use\case.png)
+
   
 4.2    Use Case 
 	4.1.1 	Deskripsi Use Case  
