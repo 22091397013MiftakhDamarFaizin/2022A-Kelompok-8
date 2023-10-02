@@ -186,7 +186,7 @@ kerja website
  
  
 4.3    Flowchart
-![Gambar Use Case](./assets/flowchart.png)
+![Gambar Flowchart](./assets/flowchart.png)
    	    
 5. Kebutuhan Non Fungsional 
  
