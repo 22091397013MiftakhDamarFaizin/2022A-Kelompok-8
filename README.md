@@ -124,7 +124,9 @@ kerja website
 	
 	17. width, tag ini digunakan untuk mengatur lebar elemen pada tampilan halaman website. Tag ini terdapat pada elemen '.card', '.konten img', dan '.konten 	button'.
 	
-	18. border-radius, tag ini digunakan untuk mengatur radius atau lengkungan pada sudut elemen. Tag ini terdapat pada elemen '.konten button'.    
+	18. border-radius, tag ini digunakan untuk mengatur radius atau lengkungan pada sudut elemen. Tag ini terdapat pada elemen '.konten button'.
+
+       
 3.2	Hardware Interface 
        	 
 3.3 	Software Interface 
