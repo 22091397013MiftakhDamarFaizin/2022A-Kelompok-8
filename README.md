@@ -107,35 +107,51 @@ kerja website
 3. 	Kebutuhan Antarmuka Eksternal 
 3.1 	User Interfaces
    	1. <!DOCTYPE html>: Adalah deklarasi tipe dokumen (Document Type Declaration) yg digunakan untuk membuat dan mendesain halaman web.
+    
 	2. <html>: Tag ini digunakan pada awal dari dokumen HTML.
+ 
 	3. <head>: Berisi informasi metadata tentang halaman web, seperti judud yg akan ditampilkan pada tab browser.
+ 
 	4. <meta>: Digunakan untuk metadata tambahan tentang halaman web dan untuk mengatur karakter set.
-	5. <link>: Digunakan untuk menghubungkan dokumen HTML dengan file "style.css".
-	6. <title>: Dalam HTML digunakan untuk menentukan judul dari halaman web.
-	7. <body>: Digunakan untuk menampung konten utama yg akan ditampilkan di halaman web seperti teks, gambar, dan tautan.
-	8. <div>: Tag ini digunakan untuk membuat divisi atau kontainer dalam halaman web.
-	9. <h1>: Digunakan untuk judul utama halaman.
-	10. <h2>: Digunakan untuk mengelompokkan konten menjadi bagian-bagian.
-	11. <h3>: Digunakan untuk judul sub bagian.
-	12. <ul>, <li>: Untuk membuat daftar tanpa urutan dengan elemen-elemen daftar
-	13. <a>: Membuat tautan (hyperlink) ke halaman web atau sumber daya lainnya yg dapat diakses menggunakan internet.
-	14. <img>: Digunakan untuk menampilkan gambar dalam halaman web.
-	15. <button>: Digunakan untuk membuat tombol interaktif di halaman web seperti mengirimkan formuir, dan membuka jendela pop up.
-	16. <p>: Untuk mengatur teks atau paragraf pada halaman web.
+ 5. 
+	6. <link>: Digunakan untuk menghubungkan dokumen HTML dengan file "style.css".
+ 
+	7. <title>: Dalam HTML digunakan untuk menentukan judul dari halaman web.
+ 
+	8. <body>: Digunakan untuk menampung konten utama yg akan ditampilkan di halaman web seperti teks, gambar, dan tautan.
+ 
+	9. <div>: Tag ini digunakan untuk membuat divisi atau kontainer dalam halaman web.
+ 
+	10. <h1>: Digunakan untuk judul utama halaman.
+ 
+	11. <h2>: Digunakan untuk mengelompokkan konten menjadi bagian-bagian.
+ 
+	12. <h3>: Digunakan untuk judul sub bagian.
+ 
+	13. <ul>, <li>: Untuk membuat daftar tanpa urutan dengan elemen-elemen daftar.
+ 
+	14. <a>: Membuat tautan (hyperlink) ke halaman web atau sumber daya lainnya yg dapat diakses menggunakan internet.
+ 15. 
+	16. <img>: Digunakan untuk menampilkan gambar dalam halaman web.
+     
+	17. <button>: Digunakan untuk membuat tombol interaktif di halaman web seperti mengirimkan formuir, dan membuka jendela pop up.
+ 
+	18. <p>: Untuk mengatur teks atau paragraf pada halaman web.
+ 
 	
-	17. color, tag ini digunakan untuk mengatur warna teks yang telah dimasukkan. Tag ini terdapat pada elemen ‘.navbar h1’, ‘.navbar span’, ‘.navbar ul li 	a’, ‘.hiro h2’, ‘.konten .sinopsis h3’, ‘.konten .sinopsis p’, ‘#terbaru h1’, ‘#terpopuler h1’, dan ‘#terbaik h1’.
+	19. color, tag ini digunakan untuk mengatur warna teks yang telah dimasukkan. Tag ini terdapat pada elemen ‘.navbar h1’, ‘.navbar span’, ‘.navbar ul li 	a’, ‘.hiro h2’, ‘.konten .sinopsis h3’, ‘.konten .sinopsis p’, ‘#terbaru h1’, ‘#terpopuler h1’, dan ‘#terbaik h1’.
 	
-	18. text-decoration, tag ini digunakan untuk mengatur dekorasi yang terdapat pada teks yang dimasukkan. Tag ini terletak pada elemen ‘.navbar ul li a’ 		dan ‘.konten button a’.
+	20. text-decoration, tag ini digunakan untuk mengatur dekorasi yang terdapat pada teks yang dimasukkan. Tag ini terletak pada elemen ‘.navbar ul li a’ 		dan ‘.konten button a’.
 	
-	19. transition, tag ini digunakan untuk mengatur efek transisi pada elemen saat pengguna melakukan interaksi dengan elemen. Tag ini digunakan pada elemen 	'.navbar ul li a', '.konten button', '.konten button a', dan '.konten button:hover.'
+	21. transition, tag ini digunakan untuk mengatur efek transisi pada elemen saat pengguna melakukan interaksi dengan elemen. Tag ini digunakan pada elemen 	'.navbar ul li a', '.konten button', '.konten button a', dan '.konten button:hover.'
 	
-	20. flex-direction, tag ini digunakan untuk mengatur arah tata letak elemen yang ditampilkan dengan perintah display: flex. Tag ini digunakan pada 		'#terbaru', '#terpopuler', dan '#terbaik'.
+	22. flex-direction, tag ini digunakan untuk mengatur arah tata letak elemen yang ditampilkan dengan perintah display: flex. Tag ini digunakan pada 		'#terbaru', '#terpopuler', dan '#terbaik'.
 	
-	21. gap, tag ini difungsikan untuk mengatur jarak antar elemen yang telah dimasukkan dalam display: flex. Tag ini terdapat pada elemen '.navbar ul', 		'.daftarfilm', dan '.card'.
+	23. gap, tag ini difungsikan untuk mengatur jarak antar elemen yang telah dimasukkan dalam display: flex. Tag ini terdapat pada elemen '.navbar ul', 		'.daftarfilm', dan '.card'.
 	
-	22. border-bottom, tag ini digunakan untuk menambahkan garis bawah pada teks. Tag ini terdapat pada '#terbaru h1', '#terpopuler h1', dan '#terbaik h1'.
+	24. border-bottom, tag ini digunakan untuk menambahkan garis bawah pada teks. Tag ini terdapat pada '#terbaru h1', '#terpopuler h1', dan '#terbaik h1'.
 	
-	23. max-height dan min-height, tag ini digunakan untuk mengatur tinggi elemen paling maksimum dan paling minimum. Tag ini terdapat pada elemen '.konten 	.sinopsis' dan '.konten .sinopsis p'.
+	25. max-height dan min-height, tag ini digunakan untuk mengatur tinggi elemen paling maksimum dan paling minimum. Tag ini terdapat pada elemen '.konten 	.sinopsis' dan '.konten .sinopsis p'.
 	
 	23. width, tag ini digunakan untuk mengatur lebar elemen pada tampilan halaman website. Tag ini terdapat pada elemen '.card', '.konten img', dan '.konten 	button'.
 	
