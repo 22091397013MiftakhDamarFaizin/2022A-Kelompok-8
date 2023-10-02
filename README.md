@@ -120,7 +120,7 @@ kerja website
  
  
 4.1	Use Case Diagram 
-![Gambar Use Case](./assets/flowchart.png)
+![Gambar Use Case](./assets/usecase.png)
 
   
 4.2    Use Case 
@@ -137,6 +137,7 @@ kerja website
  
  
 4.3    Flowchart
+![Gambar Use Case](./assets/flowchart.png)
    	    
 5. Kebutuhan Non Fungsional 
  
