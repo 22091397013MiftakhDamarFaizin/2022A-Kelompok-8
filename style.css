@@ -138,6 +138,7 @@ body {
     color: aliceblue;
     max-height: 50px;
     min-height: 50px;
+    text-align: justify;
 }
 
 .konten button {
