@@ -105,10 +105,26 @@ kerja website
  
  
 3. 	Kebutuhan Antarmuka Eksternal 
-3.1 	User Interfaces  
+3.1 	User Interfaces
+	
 
- 
- 
+	10. color, tag ini digunakan untuk mengatur warna teks yang telah dimasukkan. Tag ini terdapat pada elemen ‘.navbar h1’, ‘.navbar span’, ‘.navbar ul li 	a’, ‘.hiro h2’, ‘.konten .sinopsis h3’, ‘.konten .sinopsis p’, ‘#terbaru h1’, ‘#terpopuler h1’, dan ‘#terbaik h1’.
+	
+	11. text-decoration, tag ini digunakan untuk mengatur dekorasi yang terdapat pada teks yang dimasukkan. Tag ini terletak pada elemen ‘.navbar ul li a’ 		dan ‘.konten button a’.
+	
+	12. transition, tag ini digunakan untuk mengatur efek transisi pada elemen saat pengguna melakukan interaksi dengan elemen. Tag ini digunakan pada elemen 	'.navbar ul li a', '.konten button', '.konten button a', dan '.konten button:hover.'
+	
+	13. flex-direction, tag ini digunakan untuk mengatur arah tata letak elemen yang ditampilkan dengan perintah display: flex. Tag ini digunakan pada 		'#terbaru', '#terpopuler', dan '#terbaik'.
+	
+	14. gap, tag ini difungsikan untuk mengatur jarak antar elemen yang telah dimasukkan dalam display: flex. Tag ini terdapat pada elemen '.navbar ul', 		'.daftarfilm', dan '.card'.
+	
+	15. border-bottom, tag ini digunakan untuk menambahkan garis bawah pada teks. Tag ini terdapat pada '#terbaru h1', '#terpopuler h1', dan '#terbaik h1'.
+	
+	16. max-height dan min-height, tag ini digunakan untuk mengatur tinggi elemen paling maksimum dan paling minimum. Tag ini terdapat pada elemen '.konten 	.sinopsis' dan '.konten .sinopsis p'.
+	
+	17. width, tag ini digunakan untuk mengatur lebar elemen pada tampilan halaman website. Tag ini terdapat pada elemen '.card', '.konten img', dan '.konten 	button'.
+	
+	18. border-radius, tag ini digunakan untuk mengatur radius atau lengkungan pada sudut elemen. Tag ini terdapat pada elemen '.konten button'.    
 3.2	Hardware Interface 
        	 
 3.3 	Software Interface 
