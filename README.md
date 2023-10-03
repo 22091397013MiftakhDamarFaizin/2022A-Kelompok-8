@@ -106,8 +106,9 @@ kerja website
  
 3. 	Kebutuhan Antarmuka Eksternal 
 3.1 	User Interfaces
+   	## Penjelasan Tag HTML
 
-	1. !DOCTYPE html, Adalah deklarasi tipe dokumen (Document Type Declaration) yg digunakan untuk membuat dan mendesain halaman web.
+ 	1. !DOCTYPE html, Adalah deklarasi tipe dokumen (Document Type Declaration) yg digunakan untuk membuat dan mendesain halaman web.
 
 	2. html, Tag ini digunakan pada awal dari dokumen HTML.
 
@@ -139,23 +140,43 @@ kerja website
 
 	16. p, Untuk mengatur teks atau paragraf pada halaman web.
 
-	17. color, tag ini digunakan untuk mengatur warna teks yang telah dimasukkan. Tag ini terdapat pada elemen ‘.navbar h1’, ‘.navbar span’, ‘.navbar ul li 	a’, ‘.hiro h2’, ‘.konten .sinopsis h3’, ‘.konten .sinopsis p’, ‘#terbaru h1’, ‘#terpopuler h1’, dan ‘#terbaik h1’.
+	## Penjelasan CSS
+
+	1. background-color: Properti ini digunakan untuk mengatur warna latar belakang elemen. Misalnya, Anda dapat mengatur warna latar belakang body atau elemen dengan 	kelas .containernavbar.
+
+	2. background-image: Digunakan untuk menambahkan gambar sebagai latar belakang elemen. Dengan properti ini, Anda dapat menampilkan gambar sebagai latar belakang 	elemen dengan kelas .containernavbar.
+
+	3. background-size: Properti ini digunakan untuk mengatur ukuran latar belakang gambar pada elemen. Anda dapat mengontrol seberapa besar atau kecil gambar latar 	belakang pada elemen .containernavbar.
+
+	4. height: Properti ini digunakan untuk mengatur tinggi elemen. Contohnya, Anda dapat mengatur tinggi elemen dengan kelas .containernavbar.
+
+	5. *display*: Digunakan untuk mengatur tampilan elemen. Properti ini sering digunakan pada elemen seperti .navbar, .hiro, .daftarfilm, .card, dan .konten untuk 	mengontrol bagaimana elemen-elemen tersebut ditampilkan di halaman.
+
+	6. *justify-content*: Properti ini digunakan untuk mengatur penyebaran elemen secara horizontal. Anda dapat menggunakannya pada elemen seperti .navbar dan .card 	untuk mengatur bagaimana elemen-elemen tersebut berada dalam satu baris secara horizontal.
+
+	7. *padding*: Digunakan untuk mengatur jarak dalam elemen. Properti ini sering digunakan pada elemen seperti .navbar, .hiro, .card, .sinopsis, dan .konten button 	untuk menambahkan ruang di sekitar kontennya.
+
+	8. *position*: Properti ini digunakan untuk mengatur posisi elemen. Biasanya digunakan pada elemen seperti .navbar untuk mengontrol bagaimana elemen tersebut 		ditempatkan dalam halaman web.
+
+	9. *font-size*: Digunakan untuk mengatur ukuran font teks. Anda dapat mengubah ukuran teks pada elemen seperti .navbar h1, .navbar ul li a, .hiro h2, #terbaru h1, 	#terpopuler h1, dan #terbaik h1 untuk mengatur tampilan teks sesuai kebutuhan.
+
+	10. color, tag ini digunakan untuk mengatur warna teks yang telah dimasukkan. Tag ini terdapat pada elemen ‘.navbar h1’, ‘.navbar span’, ‘.navbar ul li 	a’, 	‘.hiro 	h2’, ‘.konten .sinopsis h3’, ‘.konten .sinopsis p’, ‘#terbaru h1’, ‘#terpopuler h1’, dan ‘#terbaik h1’.
 	
-	18. text-decoration, tag ini digunakan untuk mengatur dekorasi yang terdapat pada teks yang dimasukkan. Tag ini terletak pada elemen ‘.navbar ul li a’ 		dan ‘.konten button a’.
+	11. text-decoration, tag ini digunakan untuk mengatur dekorasi yang terdapat pada teks yang dimasukkan. Tag ini terletak pada elemen ‘.navbar ul li a’ 		dan 	‘.konten button a’.
 	
-	19. transition, tag ini digunakan untuk mengatur efek transisi pada elemen saat pengguna melakukan interaksi dengan elemen. Tag ini digunakan pada elemen 	'.navbar ul li a', '.konten button', '.konten button a', dan '.konten button:hover.'
+	12. transition, tag ini digunakan untuk mengatur efek transisi pada elemen saat pengguna melakukan interaksi dengan elemen. Tag ini digunakan pada elemen 		'.navbar ul li a', '.konten button', '.konten button a', dan '.konten button:hover.'
 	
-	20. flex-direction, tag ini digunakan untuk mengatur arah tata letak elemen yang ditampilkan dengan perintah display: flex. Tag ini digunakan pada 		'#terbaru', '#terpopuler', dan '#terbaik'.
+	13. flex-direction, tag ini digunakan untuk mengatur arah tata letak elemen yang ditampilkan dengan perintah display: flex. Tag ini digunakan pada 			'#terbaru', '#terpopuler', dan '#terbaik'.
 	
-	21. gap, tag ini difungsikan untuk mengatur jarak antar elemen yang telah dimasukkan dalam display: flex. Tag ini terdapat pada elemen '.navbar ul', 		'.daftarfilm', dan '.card'.
+	14. gap, tag ini difungsikan untuk mengatur jarak antar elemen yang telah dimasukkan dalam display: flex. Tag ini terdapat pada elemen '.navbar ul', 			'.daftarfilm', dan '.card'.
 	
-	22. border-bottom, tag ini digunakan untuk menambahkan garis bawah pada teks. Tag ini terdapat pada '#terbaru h1', '#terpopuler h1', dan '#terbaik h1'.
+	15. border-bottom, tag ini digunakan untuk menambahkan garis bawah pada teks. Tag ini terdapat pada '#terbaru h1', '#terpopuler h1', dan '#terbaik h1'.
 	
-	23. max-height dan min-height, tag ini digunakan untuk mengatur tinggi elemen paling maksimum dan paling minimum. Tag ini terdapat pada elemen '.konten 	.sinopsis' dan '.konten .sinopsis p'.
+	16. max-height dan min-height, tag ini digunakan untuk mengatur tinggi elemen paling maksimum dan paling minimum. Tag ini terdapat pada elemen '.konten 		.sinopsis' dan '.konten .sinopsis p'.
 	
-	24. width, tag ini digunakan untuk mengatur lebar elemen pada tampilan halaman website. Tag ini terdapat pada elemen '.card', '.konten img', dan '.konten 	button'.
+	17. width, tag ini digunakan untuk mengatur lebar elemen pada tampilan halaman website. Tag ini terdapat pada elemen '.card', '.konten img', dan '.konten 		button'.
 	
-	25. border-radius, tag ini digunakan untuk mengatur radius atau lengkungan pada sudut elemen. Tag ini terdapat pada elemen '.konten button'.
+	18. border-radius, tag ini digunakan untuk mengatur radius atau lengkungan pada sudut elemen. Tag ini terdapat pada elemen '.konten button'.
 
        
 3.2	Hardware Interface 
