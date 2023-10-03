@@ -1,5 +1,3 @@
- 
- 
 Software Requirements 
 Specification 
 
@@ -103,27 +101,27 @@ User 	User dapat melakukan kegiatan penting pada  website seperti membaca sinops
 
 3.5   Penjelasan Code
 
-      Code HTML
+Code HTML
 
-      Code CSS
+Code CSS
 
-      1. background-color: Properti ini digunakan untuk mengatur warna latar belakang elemen. Misalnya, Anda dapat mengatur          warna latar belakang body atau elemen dengan kelas .containernavbar.
+1. background-color: Properti ini digunakan untuk mengatur warna latar belakang elemen. Misalnya, Anda dapat mengatur    warna latar belakang body atau elemen dengan kelas .containernavbar.
 
-      2. *background-image*: Digunakan untuk menambahkan gambar sebagai latar belakang elemen. Dengan properti ini, Anda             dapat menampilkan gambar sebagai latar belakang elemen dengan kelas .containernavbar.
+2. background-image: Digunakan untuk menambahkan gambar sebagai latar belakang elemen. Dengan properti ini, Anda         dapat menampilkan gambar sebagai latar belakang elemen dengan kelas .containernavbar.
 
-      3. *background-size*: Properti ini digunakan untuk mengatur ukuran latar belakang gambar pada elemen. Anda dapat                mengontrol seberapa besar atau kecil gambar latar belakang pada elemen .containernavbar.
+3. background-size: Properti ini digunakan untuk mengatur ukuran latar belakang gambar pada elemen. Anda dapat             mengontrol seberapa besar atau kecil gambar latar belakang pada elemen .containernavbar.
 
-      4. *height*: Properti ini digunakan untuk mengatur tinggi elemen. Contohnya, Anda dapat mengatur tinggi elemen dengan           kelas .containernavbar.
+4. height: Properti ini digunakan untuk mengatur tinggi elemen. Contohnya, Anda dapat mengatur tinggi elemen dengan        kelas .containernavbar.
 
-      5. *display*: Digunakan untuk mengatur tampilan elemen. Properti ini sering digunakan pada elemen seperti .navbar,              .hiro, .daftarfilm, .card, dan .konten untuk mengontrol bagaimana elemen-elemen tersebut ditampilkan di halaman.
+5. display: Digunakan untuk mengatur tampilan elemen. Properti ini sering digunakan pada elemen seperti .navbar,           .hiro, .daftarfilm, .card, dan .konten untuk mengontrol bagaimana elemen-elemen tersebut ditampilkan di halaman.
 
-      6. *justify-content*: Properti ini digunakan untuk mengatur penyebaran elemen secara horizontal. Anda dapat                     menggunakannya pada elemen seperti .navbar dan .card untuk mengatur bagaimana elemen-elemen tersebut berada dalam           satu baris secara horizontal.
+6. justify-content: Properti ini digunakan untuk mengatur penyebaran elemen secara horizontal. Anda dapat                  menggunakannya pada elemen seperti .navbar dan .card untuk mengatur bagaimana elemen-elemen tersebut berada dalam           satu baris secara horizontal.
 
-      7. *padding*: Digunakan untuk mengatur jarak dalam elemen. Properti ini sering digunakan pada elemen seperti .navbar,           .hiro, .card, .sinopsis, dan .konten button untuk menambahkan ruang di sekitar kontennya.
+7. padding: Digunakan untuk mengatur jarak dalam elemen. Properti ini sering digunakan pada elemen seperti .navbar,        .hiro, .card, .sinopsis, dan .konten button untuk menambahkan ruang di sekitar kontennya.
 
-      8. *position*: Properti ini digunakan untuk mengatur posisi elemen. Biasanya digunakan pada elemen seperti .navbar              untuk mengontrol bagaimana elemen tersebut ditempatkan dalam halaman web.
+8. position: Properti ini digunakan untuk mengatur posisi elemen. Biasanya digunakan pada elemen seperti .navbar           untuk mengontrol bagaimana elemen tersebut ditempatkan dalam halaman web.
 
-      9. *font-size*: Digunakan untuk mengatur ukuran font teks. Anda dapat mengubah ukuran teks pada elemen seperti                  .navbar h1, .navbar ul li a, .hiro h2, #terbaru h1, #terpopuler h1, dan #terbaik h1 untuk mengatur tampilan teks            sesuai kebutuhan.
+9. font-size: Digunakan untuk mengatur ukuran font teks. Anda dapat mengubah ukuran teks pada elemen seperti              .navbar h1, .navbar ul li a, .hiro h2, #terbaru h1, #terpopuler h1, dan #terbaik h1 untuk mengatur tampilan teks           sesuai kebutuhan.
  
  	 
 4. Kebutuhan Fungsional 
