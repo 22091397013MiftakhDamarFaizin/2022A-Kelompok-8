@@ -103,6 +103,38 @@ User 	User dapat melakukan kegiatan penting pada  website seperti membaca sinops
 
 Code HTML
 
+1. !DOCTYPE html: Adalah deklarasi tipe dokumen (Document Type Declaration) yg digunakan untuk membuat dan mendesain halaman web.
+
+2. html: Tag ini digunakan pada awal dari dokumen HTML.
+
+3. head: Berisi informasi metadata tentang halaman web, seperti judud yg akan ditampilkan pada tab browser.
+
+4. meta: Digunakan untuk metadata tambahan tentang halaman web dan untuk mengatur karakter set.
+   
+5. link: Digunakan untuk menghubungkan dokumen HTML dengan file "style.css".
+
+6. title: Dalam HTML digunakan untuk menentukan judul dari halaman web.
+
+7. body: Digunakan untuk menampung konten utama yg akan ditampilkan di halaman web seperti teks, gambar, dan tautan.
+
+8. div: Tag ini digunakan untuk membuat divisi atau kontainer dalam halaman web.
+
+9. h1: Digunakan untuk judul utama halaman.
+
+10. h2: Digunakan untuk mengelompokkan konten menjadi bagian-bagian.
+
+11. h3: Digunakan untuk judul sub bagian.
+
+12. ul, li: Untuk membuat daftar tanpa urutan dengan elemen-elemen daftar.
+
+13. a: Membuat tautan (hyperlink) ke halaman web atau sumber daya lainnya yg dapat diakses menggunakan internet.
+    
+14. img: Digunakan untuk menampilkan gambar dalam halaman web.
+    
+15. button: Digunakan untuk membuat tombol interaktif di halaman web seperti mengirimkan formuir, dan membuka jendela pop up.
+    
+16. p: Untuk mengatur teks atau paragraf pada halaman web.
+
 Code CSS
 
 1. background-color: Properti ini digunakan untuk mengatur warna latar belakang elemen. Misalnya, Anda dapat mengatur    warna latar belakang body atau elemen dengan kelas .containernavbar.
