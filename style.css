@@ -6,7 +6,10 @@ body {
 .containernavbar {
     background: linear-gradient(to bottom, rgb(59, 1, 1), black);
     background-size: cover;
-    height: 600px;
+    min-height: 100vh;
+    min-width: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .navbar {
