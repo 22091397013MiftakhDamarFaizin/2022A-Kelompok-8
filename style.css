@@ -2,8 +2,7 @@ body {
     background-color: black;
 }
 .containernavbar {
-    background-color: black;
-    background-image: url(https://www.hdwallpapers.in/download/unique_red_and_black_background_hd_red_aesthetic-1366x768.jpg);
+    background: linear-gradient(to bottom, rgb(59, 1, 1), black);
     background-size: cover;
     height: 600px;
 }
