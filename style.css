@@ -1,5 +1,7 @@
 body {
     background-color: black;
+    padding: 0;
+    margin: 0;
 }
 .containernavbar {
     background: linear-gradient(to bottom, rgb(59, 1, 1), black);
