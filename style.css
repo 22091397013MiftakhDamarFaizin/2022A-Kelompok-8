@@ -16,8 +16,7 @@ body {
 .navbar {
     display: flex;
     justify-content: space-between;
-    padding: 1px 20px 10px 20px;
-    position: sticky;
+    padding: 1px 40px 10px 40px;
 }
 .navbar h1 {
     font-size: 30px;
