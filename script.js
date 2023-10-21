@@ -15,23 +15,24 @@ let videoIframe = document.getElementById("videoIframe");
 let closeVideo = document.getElementById("closeVideo");
 
 openButtons.forEach(function(button) {
-    button.addEventListener("click", function() {
+        button.addEventListener("click", function() {
         let youtubeURL = this.getAttribute("data-video");
         videoIframe.src = youtubeURL;
         videoPopup.style.display = "block";
-    });
+        });
 });
 
 closeVideo.addEventListener("click", function() {
-    // Menghentikan video ketika pop-up ditutup
-    videoIframe.contentWindow.postMessage('{"event":"command","func":"' + 'pauseVideo' + '","args":""}', '*');
-    videoPopup.style.display = "none";
+        // Mengganti sumber iframe dengan sumber kosong
+        videoIframe.src = "about:blank";
+        videoPopup.style.display = "none";
 });
 
 videoPopup.addEventListener("click", function(event) {
-    if (event.target === this) {
-        // Menghentikan video ketika area luar iframe diklik
-        videoIframe.contentWindow.postMessage('{"event":"command","func":"' + 'pauseVideo' + '","args":""}', '*');
+        if (event.target === this) {
+        // Mengganti sumber iframe dengan sumber kosong
+        videoIframe.src = "about:blank";
         videoPopup.style.display = "none";
-    }
+        }
 });
+
