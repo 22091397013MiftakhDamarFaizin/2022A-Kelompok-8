@@ -31,7 +31,7 @@ body {
     list-style-type: none;
     display: flex;
     justify-content: space-evenly;
-    gap: 30px;
+    gap: 20px;
     padding-top: 10px;
 }
 .navbar ul li a {
