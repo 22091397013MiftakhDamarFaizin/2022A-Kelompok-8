@@ -25,3 +25,9 @@ openButtons.forEach(function(button) {
 closeVideo.addEventListener("click", function() {
     videoPopup.style.display = "none";
 });
+
+videoPopup.addEventListener("click", function(event) {
+        if (event.target === this) {
+        videoPopup.style.display = "none";
+        }
+});
