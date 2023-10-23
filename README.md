@@ -173,9 +173,32 @@ Code CSS
 
 18. border-radius, tag ini digunakan untuk mengatur radius atau lengkungan pada sudut elemen. Tag ini terdapat pada elemen '.konten button'.
 
+ Code Javascript
+
+ 1. window.addEventListener("scroll", function () { ... });: digunakan untuk event listener yang menangani peristiwa scroll (gulir) pada halaman. Saat pengguna menggulir halaman web, kode dalam fungsi ini akan dieksekusi.
+    
+ 2. let backToTop = document.getElementById("back-to-top");: digunakan untuk Mendeklarasikan variabel backToTop yang menyimpan elemen HTML dengan ID "back-to-top".
  
- 	 
-4. Kebutuhan Fungsional 
+ 3. let containernavbar = document.querySelector(".containernavbar");: digunakan untuk menyimpan elemen HTML pertama yang ditemukan dengan kelas CSS "containernavbar".
+
+ 4. if (window.scrollY > containernavbar.clientHeight) { ... }: digunakan untuk memeriksa apakah pengguna telah menggulir lebih dari tinggi elemen yang memiliki kelas "containernavbar".
+
+ 5. let openButtons = document.querySelectorAll(".openVideo");: digunakan untuk menyimpan semua elemen dengan kelas CSS "openVideo". mungkin merujuk pada tombol yang membuka video.
+
+ 6. let videoPopup = document.getElementById("videoPopup");: digunakan untuk menyimpan elemen HTML dengan ID "videoPopup" dan menampilkan pop-up video.
+
+ 7. let videoIframe = document.getElementById("videoIframe");: digunakan untuk menyimpan elemen HTML dengan ID "videoIframe" dan menampilkan video YouTube.
+
+ 8. let closeVideo = document.getElementById("closeVideo");: digunakan untuk menyimpan elemen HTML dengan ID "closeVideo" dan menutup pop-up video.
+
+ 9. openButtons.forEach(function(button) { ... });: digunakan untuk menambahkan event listener ke setiap elemen yang memiliki kelas "openVideo". Saat elemen ini diklik, akan menampilkan pop-up video.
+
+ 10. closeVideo.addEventListener("click", function () { ... });: menambahkan event listener ke elemen dengan ID "closeVideo" yang akan menutup pop-up video. Saat diklik, sumber iframe diubah menjadi "about:blank" dan pop-up video disembunyikan.
+
+ 11. videoPopup.addEventListener("click", function(event) { ... });: menambahkan event listener ke elemen dengan ID "videoPopup" yang akan menutup pop-up video jika pengguna mengklik di luar area video.
+
+
+ 12. Kebutuhan Fungsional 
  
  
 4.1	Use Case Diagram 
