@@ -7,13 +7,14 @@ Website Rekomendasi Film
 3. 22091397033 - Aryangga Putra Satrya 
 
 Deskripsi  
+
 Website "MyFilm" adalah sumber rekomendasi film yang menghadirkan beragam pilihan kepada pembacanya. Situs ini dirancang khusus untuk membantu pembaca menemukan film-film yang sesuai dengan preferensi dan selera mereka. Pengguna dapat dengan mudah mencari rekomendasi film yang cocok dengan apa yang mereka cari.
 
 “MyFilm” menyajikan rekomendasi film dengan detail yang informatif. Setiap film dijelaskan dengan sinopsis singkat yang memberikan gambaran tentang alur cerita dan tema film tersebut. Selain itu, situs ini juga menyediakan akses mudah ke trailer film, sehingga pembaca dapat mendapatkan gambaran visual tentang film yang direkomendasikan. Semua ini bertujuan untuk memberikan pengalaman yang lebih lengkap dan informatif kepada pengguna dalam memilih film yang akan mereka tonton. Dengan begitu, “MyFilm” menjadi sumber terpercaya untuk menemukan film-film baru yang dapat dinikmati oleh para pecinta film.
 
-Audiens untuk website rekomendasi film
+Audiens yang dituju
 
-Myfilm mencakup penggemar film, pengguna berdasarkan genre, usia, penggemar aktor/aktris, seri TV, tahun rilis, rating, sejarah penonton, lokasi, pengguna berlangganan, dan pemasar film. Myfilm harus memahami dan memenuhi preferensi audiens ini, serta mengimplementasikan strategi pemasaran yang efektif dan analisis data pengguna untuk mencapai kesuksesan jangka panjang.
+Audiens untuk website rekomendasi film Myfilm mencakup penggemar film, pengguna berdasarkan genre, usia, penggemar aktor/aktris, seri TV, tahun rilis, rating, sejarah penonton, lokasi, pengguna berlangganan, dan pemasar film. Myfilm harus memahami dan memenuhi preferensi audiens ini, serta mengimplementasikan strategi pemasaran yang efektif dan analisis data pengguna untuk mencapai kesuksesan jangka panjang.
 
 Desain User interface
 
@@ -123,20 +124,12 @@ Code CSS
 
  11. videoPopup.addEventListener("click", function(event) { ... });: menambahkan event listener ke elemen dengan ID "videoPopup" yang akan menutup pop-up video jika pengguna mengklik di luar area video.
  
- 
-4.1	Use Case Diagram 
-
+Use Case Diagram 
 
 ![Gambar Use Case](./assets/usecase.png)
 
-  
-4.2    Use Case 
-	4.1.1 	Deskripsi Use Case  
-1.	User : User dapat melakukan kegiatan penting pada  website seperti membaca sinopsis film dan menonton trailer film.
+User dapat melakukan kegiatan penting pada  website seperti membaca sinopsis film dan menonton trailer film.
  
- 
-4.3    Flowchart
+Flowchart
 
 ![Gambar Flowchart](./assets/flowchart.png) 
- 
- 
