@@ -2,9 +2,9 @@ Software Requirements Specification
  
 Website Rekomendasi Film 
 
-22091397012 – Mohammad Resha Syahputra
-22091397013 - Miftakh Damar Faizin 
-22091397033 - Aryangga Putra Satrya 
+1. 22091397012 – Mohammad Resha Syahputra
+2. 22091397013 - Miftakh Damar Faizin 
+3. 22091397033 - Aryangga Putra Satrya 
 
 Deskripsi  
 Website "MyFilm" adalah sumber rekomendasi film yang menghadirkan beragam pilihan kepada pembacanya. Situs ini dirancang khusus untuk membantu pembaca menemukan film-film yang sesuai dengan preferensi dan selera mereka. Pengguna dapat dengan mudah mencari rekomendasi film yang cocok dengan apa yang mereka cari.
