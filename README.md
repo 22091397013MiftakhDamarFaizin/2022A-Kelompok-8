@@ -21,6 +21,8 @@ Desain User interface
 
 ![Gambar User interface](./assets/terbaik.png)
 
+![Gambar User interface](./assets/trailer.png)
+
 Code HTML
 
 1. !DOCTYPE html: Adalah deklarasi tipe dokumen (Document Type Declaration) yg digunakan untuk membuat dan mendesain halaman web.
