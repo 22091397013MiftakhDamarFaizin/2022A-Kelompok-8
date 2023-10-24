@@ -19,7 +19,7 @@ Audiens untuk website rekomendasi film Myfilm mencakup penggemar film, pengguna 
 
 C. Software yang dibutuhkan
 
-Dalam proses membuat website ini diperlukan antarmuka perangkat lunak yang penting. Beberapa komponen yang diperlukan untuk menciptakan situs web rekomendasi film adalah sebagai berikut: Pertama, HTML digunakan untuk merancang kerangka dasar halaman web, mengatur teks, paragraf, daftar, dan elemen-elemen teks lainnya, serta mengaitkan halaman web dan membentuk struktur navigasi. Selanjutnya, CSS digunakan untuk mengubah penampilan elemen-elemen HTML, termasuk mengatur warna latar belakang, teks, jenis huruf, dan garis tepi.
+Dalam proses membuat website ini diperlukan antarmuka perangkat lunak yang penting. Beberapa komponen yang diperlukan untuk menciptakan situs web rekomendasi film adalah sebagai berikut: Pertama, HTML digunakan untuk merancang kerangka dasar halaman web, mengatur teks, paragraf, daftar, dan elemen-elemen teks lainnya, serta mengaitkan halaman web dan membentuk struktur navigasi. Selanjutnya, CSS digunakan untuk mengubah penampilan elemen-elemen HTML, termasuk mengatur warna latar belakang, teks, jenis huruf, dan garis tepi. Kemudian Javascript untuk menambahkan fitur seperti tombol kembali yang berfungsi untuk kembali ke bagian paling atas website, dan fitur menampilkan pop up video trailer didalam website.
 
 D. Desain User interface
 
