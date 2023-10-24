@@ -12,6 +12,7 @@ Website "MyFilm" adalah sumber rekomendasi film yang menghadirkan beragam piliha
 “MyFilm” menyajikan rekomendasi film dengan detail yang informatif. Setiap film dijelaskan dengan sinopsis singkat yang memberikan gambaran tentang alur cerita dan tema film tersebut. Selain itu, situs ini juga menyediakan akses mudah ke trailer film, sehingga pembaca dapat mendapatkan gambaran visual tentang film yang direkomendasikan. Semua ini bertujuan untuk memberikan pengalaman yang lebih lengkap dan informatif kepada pengguna dalam memilih film yang akan mereka tonton. Dengan begitu, “MyFilm” menjadi sumber terpercaya untuk menemukan film-film baru yang dapat dinikmati oleh para pecinta film.
 
 Audiens untuk website rekomendasi film
+
 Myfilm mencakup penggemar film, pengguna berdasarkan genre, usia, penggemar aktor/aktris, seri TV, tahun rilis, rating, sejarah penonton, lokasi, pengguna berlangganan, dan pemasar film. Myfilm harus memahami dan memenuhi preferensi audiens ini, serta mengimplementasikan strategi pemasaran yang efektif dan analisis data pengguna untuk mencapai kesuksesan jangka panjang.
 
 Desain User interface
