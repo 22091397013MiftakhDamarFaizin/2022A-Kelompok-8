@@ -2,7 +2,7 @@ Software Requirements Specification
  
 Website Rekomendasi Film 
 
-1. 22091397012 – Mohammad Resha Syahputra
+1. 22091397012 - Mohammad Resha Syahputra
 2. 22091397013 - Miftakh Damar Faizin 
 3. 22091397033 - Aryangga Putra Satrya 
 
