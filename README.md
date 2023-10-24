@@ -15,11 +15,11 @@ Desain User interface
 
 ![Gambar User interface](./assets/film.png)
 
-![Gambar User interface](./assets/filmterbaru.png)
+![Gambar User interface](./assets/film.terbaru.png)
 
-![Gambar User interface](./assets/filmterpopuler.png)
+![Gambar User interface](./assets/film.terpopuler.png)
 
-![Gambar User interface](./assets/filmterbaik.png)
+![Gambar User interface](./assets/film.terbaik.png)
 
 Code HTML
 
