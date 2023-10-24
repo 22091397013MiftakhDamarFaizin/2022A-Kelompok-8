@@ -11,6 +11,16 @@ Website "MyFilm" adalah sumber rekomendasi film yang menghadirkan beragam piliha
 
 “MyFilm” menyajikan rekomendasi film dengan detail yang informatif. Setiap film dijelaskan dengan sinopsis singkat yang memberikan gambaran tentang alur cerita dan tema film tersebut. Selain itu, situs ini juga menyediakan akses mudah ke trailer film, sehingga pembaca dapat mendapatkan gambaran visual tentang film yang direkomendasikan. Semua ini bertujuan untuk memberikan pengalaman yang lebih lengkap dan informatif kepada pengguna dalam memilih film yang akan mereka tonton. Dengan begitu, “MyFilm” menjadi sumber terpercaya untuk menemukan film-film baru yang dapat dinikmati oleh para pecinta film.
 
+Desain User interface
+
+![Gambar User interface](./assets/film.png)
+
+![Gambar User interface](./assets/filmterbaru.png)
+
+![Gambar User interface](./assets/filmterpopuler.png)
+
+![Gambar User interface](./assets/filmterbaik.png)
+
 Code HTML
 
 1. !DOCTYPE html: Adalah deklarasi tipe dokumen (Document Type Declaration) yg digunakan untuk membuat dan mendesain halaman web.
