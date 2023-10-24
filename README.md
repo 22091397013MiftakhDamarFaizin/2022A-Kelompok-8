@@ -17,7 +17,11 @@ B. Audiens yang dituju
 
 Audiens untuk website rekomendasi film Myfilm mencakup penggemar film, pengguna berdasarkan genre, usia, penggemar aktor/aktris, seri TV, tahun rilis, rating, sejarah penonton, lokasi, pengguna berlangganan, dan pemasar film. Myfilm harus memahami dan memenuhi preferensi audiens ini, serta mengimplementasikan strategi pemasaran yang efektif dan analisis data pengguna untuk mencapai kesuksesan jangka panjang.
 
-C. Desain User interface
+C. Software yang dibutuhkan
+
+Dalam proses membuat website ini diperlukan antarmuka perangkat lunak yang penting. Beberapa komponen yang diperlukan untuk menciptakan situs web rekomendasi film adalah sebagai berikut: Pertama, HTML digunakan untuk merancang kerangka dasar halaman web, mengatur teks, paragraf, daftar, dan elemen-elemen teks lainnya, serta mengaitkan halaman web dan membentuk struktur navigasi. Selanjutnya, CSS digunakan untuk mengubah penampilan elemen-elemen HTML, termasuk mengatur warna latar belakang, teks, jenis huruf, dan garis tepi.
+
+D. Desain User interface
 
 ![Gambar User interface](./assets/film.png)
 
@@ -29,7 +33,7 @@ C. Desain User interface
 
 ![Gambar User interface](./assets/trailer.png)
 
-D. Penjelasan Code
+E. Penjelasan Code
 
 Code HTML
 
@@ -127,12 +131,12 @@ Code CSS
 
  11. videoPopup.addEventListener("click", function(event) { ... });: menambahkan event listener ke elemen dengan ID "videoPopup" yang akan menutup pop-up video jika pengguna mengklik di luar area video.
  
-E. Use Case Diagram 
+F. Use Case Diagram 
 
 ![Gambar Use Case](./assets/usecase.png)
 
 User dapat melakukan kegiatan penting pada  website seperti membaca sinopsis film dan menonton trailer film.
  
-F. Flowchart
+G. Flowchart
 
 ![Gambar Flowchart](./assets/flowchart.png) 
