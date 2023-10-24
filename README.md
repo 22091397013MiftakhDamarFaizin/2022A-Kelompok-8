@@ -106,9 +106,6 @@ Code CSS
  10. closeVideo.addEventListener("click", function () { ... });: menambahkan event listener ke elemen dengan ID "closeVideo" yang akan menutup pop-up video. Saat diklik, sumber iframe diubah menjadi "about:blank" dan pop-up video disembunyikan.
 
  11. videoPopup.addEventListener("click", function(event) { ... });: menambahkan event listener ke elemen dengan ID "videoPopup" yang akan menutup pop-up video jika pengguna mengklik di luar area video.
-
-
- 12. Kebutuhan Fungsional 
  
  
 4.1	Use Case Diagram 
@@ -121,17 +118,9 @@ Code CSS
 	4.1.1 	Deskripsi Use Case  
 1.	User : User dapat melakukan kegiatan penting pada  website seperti membaca sinopsis film dan menonton trailer film.
  
-4.1.2 Stimulus and Respon 
- 
- 
-4.1.4 Activity Diagram 
- 
  
 4.3    Flowchart
 
-![Gambar Flowchart](./assets/flowchart.png)
-
-   	    
-5. Kebutuhan Non Fungsional 
+![Gambar Flowchart](./assets/flowchart.png) 
  
  
