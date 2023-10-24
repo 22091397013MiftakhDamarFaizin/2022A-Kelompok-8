@@ -7,17 +7,17 @@ Website Rekomendasi Film
 3. 22091397033 - Aryangga Putra Satrya 
 
 
-1. Deskripsi  
+A. Deskripsi  
 
 Website "MyFilm" adalah sumber rekomendasi film yang menghadirkan beragam pilihan kepada pembacanya. Situs ini dirancang khusus untuk membantu pembaca menemukan film-film yang sesuai dengan preferensi dan selera mereka. Pengguna dapat dengan mudah mencari rekomendasi film yang cocok dengan apa yang mereka cari.
 
 “MyFilm” menyajikan rekomendasi film dengan detail yang informatif. Setiap film dijelaskan dengan sinopsis singkat yang memberikan gambaran tentang alur cerita dan tema film tersebut. Selain itu, situs ini juga menyediakan akses mudah ke trailer film, sehingga pembaca dapat mendapatkan gambaran visual tentang film yang direkomendasikan. Semua ini bertujuan untuk memberikan pengalaman yang lebih lengkap dan informatif kepada pengguna dalam memilih film yang akan mereka tonton. Dengan begitu, “MyFilm” menjadi sumber terpercaya untuk menemukan film-film baru yang dapat dinikmati oleh para pecinta film.
 
-2. Audiens yang dituju
+B. Audiens yang dituju
 
 Audiens untuk website rekomendasi film Myfilm mencakup penggemar film, pengguna berdasarkan genre, usia, penggemar aktor/aktris, seri TV, tahun rilis, rating, sejarah penonton, lokasi, pengguna berlangganan, dan pemasar film. Myfilm harus memahami dan memenuhi preferensi audiens ini, serta mengimplementasikan strategi pemasaran yang efektif dan analisis data pengguna untuk mencapai kesuksesan jangka panjang.
 
-3. Desain User interface
+C. Desain User interface
 
 ![Gambar User interface](./assets/film.png)
 
@@ -29,7 +29,7 @@ Audiens untuk website rekomendasi film Myfilm mencakup penggemar film, pengguna 
 
 ![Gambar User interface](./assets/trailer.png)
 
-4. Penjelasan Code
+D. Penjelasan Code
 
 Code HTML
 
@@ -127,12 +127,12 @@ Code CSS
 
  11. videoPopup.addEventListener("click", function(event) { ... });: menambahkan event listener ke elemen dengan ID "videoPopup" yang akan menutup pop-up video jika pengguna mengklik di luar area video.
  
-4.1 Use Case Diagram 
+E. Use Case Diagram 
 
 ![Gambar Use Case](./assets/usecase.png)
 
 User dapat melakukan kegiatan penting pada  website seperti membaca sinopsis film dan menonton trailer film.
  
-4.2 Flowchart
+F. Flowchart
 
 ![Gambar Flowchart](./assets/flowchart.png) 
