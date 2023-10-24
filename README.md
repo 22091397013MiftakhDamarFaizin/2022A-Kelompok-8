@@ -23,15 +23,15 @@ Dalam proses membuat website ini diperlukan antarmuka perangkat lunak yang penti
 
 D. Desain User interface
 
-![Gambar User interface](./assets/film.png)
+![Gambar User interface](./assets/film.PNG)
 
-![Gambar User interface](./assets/terbaru.png)
+![Gambar User interface](./assets/terbaru.PNG)
 
-![Gambar User interface](./assets/terpopuler.png)
+![Gambar User interface](./assets/terpopuler.PNG)
 
-![Gambar User interface](./assets/terbaik.png)
+![Gambar User interface](./assets/terbaik.PNG)
 
-![Gambar User interface](./assets/trailer.png)
+![Gambar User interface](./assets/trailer.PNG)
 
 E. Penjelasan Code
 
